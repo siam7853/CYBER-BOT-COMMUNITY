@@ -3,7 +3,7 @@
 	"PreKey": "",
 	"AutoUpdate": true,
 	"MainColor": "#9900FF",
-	"MainName": "[ cyber-fca ]", //হুদাই এই ফাইলের কোনো কাজ নাই , তারপরও লাগাই রখলাম । চাইলে আপনারা ডিলেট করে দিতে পারেন।
+	"MainName": "[ HIYA ISLAM ]", //হুদাই এই ফাইলের কোনো কাজ নাই , তারপরও লাগাই রখলাম । চাইলে আপনারা ডিলেট করে দিতে পারেন।
 	"Uptime": false,
 	"Config": "default",
 	"DevMode": false,
@@ -24,7 +24,7 @@
 	},
 	"HTML": {
 		"HTML": true,
-		"UserName": "Guest",
+		"UserName": "bot",
 		"MusicLink": "https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download"
 	},
 	"AntiGetInfo": {
